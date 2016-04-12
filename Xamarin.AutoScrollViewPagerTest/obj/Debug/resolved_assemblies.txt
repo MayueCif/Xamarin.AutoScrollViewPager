@@ -1,0 +1,10 @@
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPagerTest/obj/Debug/assemblies/Xamarin.AutoScrollViewPagerTest.dll
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPagerTest/obj/Debug/assemblies/System.dll
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPagerTest/obj/Debug/assemblies/System.Xml.dll
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPagerTest/obj/Debug/assemblies/Mono.Android.dll
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPagerTest/obj/Debug/assemblies/Xamarin.Android.Support.v4.dll
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPagerTest/obj/Debug/assemblies/System.Core.dll
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPagerTest/obj/Debug/assemblies/Xamarin.AutoScrollViewPager.dll
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPagerTest/obj/Debug/assemblies/mscorlib.dll
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPagerTest/obj/Debug/assemblies/System.Runtime.Serialization.dll
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPagerTest/obj/Debug/assemblies/System.ServiceModel.Internals.dll

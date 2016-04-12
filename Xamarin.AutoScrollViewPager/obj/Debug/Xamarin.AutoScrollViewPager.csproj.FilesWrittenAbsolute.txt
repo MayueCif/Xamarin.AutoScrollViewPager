@@ -1,0 +1,13 @@
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPager/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPager/obj/Debug/Xamarin.AutoScrollViewPager.obj.Debug.__AndroidLibraryProjects__.zip
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPager/bin/Debug/Xamarin.AutoScrollViewPager.dll.mdb
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPager/bin/Debug/Xamarin.AutoScrollViewPager.dll
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPager/bin/Debug/Xamarin.AutoScrollViewPager.apk
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPager/obj/Debug/android/bin/Xamarin.AutoScrollViewPager.apk
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPager/obj/Debug/res/values/strings.xml
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPager/obj/Debug/R.cs.flag
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPager/bin/Debug/Xamarin.AutoScrollViewPager-Signed.apk
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPager/obj/Debug/uploadflags.txt
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPager/obj/Debug/Xamarin.AutoScrollViewPager.dll
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPager/obj/Debug/Xamarin.AutoScrollViewPager.dll.mdb
+/Users/Myue/Projects/Xamarin.AutoScrollViewPager/Xamarin.AutoScrollViewPager/bin/Debug/Xamarin.Android.Support.v4.dll
