@@ -9,7 +9,7 @@ Xamarin.Android 自动滑动ViewPager
 xml中定义元素：
 
 <Xamarin.AutoScrollViewPager.AutoScrollViewPager
-        android:id="@+id/container"
+	android:id="@+id/container"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
