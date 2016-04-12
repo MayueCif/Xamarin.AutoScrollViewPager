@@ -16,5 +16,7 @@ xml中定义元素：
 Activity中
 
 var viewPager = FindViewById<Xamarin.AutoScrollViewPager.AutoScrollViewPager> (Resource.Id.container);
-			viewPager.Adapter = sectionsPagerAdapter;
-			viewPager.StartAutoScroll ();
+
+viewPager.Adapter = sectionsPagerAdapter;
+
+viewPager.StartAutoScroll ();
